@@ -11,7 +11,7 @@
 `Python` `C++` `GitHub` `VS Code` `Linux Basics`
 
 ## 📈 My GitHub Stats
-![Tanishk's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishquebadal&show_icons=true&theme=dracula)
+![Tanishk's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanishkBadal&show_icons=true&theme=dracula)
 
 ## 🌱 Goals
 - 📚 Finish full Python + DSA by November
